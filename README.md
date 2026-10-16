@@ -2,11 +2,11 @@
   <tr>
     <td align="center">
       <code>Languages</code><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,py" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,py,java" />
     </td>
     <td align="center">
       <code>Tools</code><br><br>
-      <img src="https://skillicons.dev/icons?i=vscode,blender,figma,mysql,git" />
+      <img src="https://skillicons.dev/icons?i=git,docker" />
     </td>
     <td align="center">
       <code>OS</code><br><br>
