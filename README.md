@@ -1,25 +1,5 @@
-<table>
-  <tr>
-    <td align="center">
-      <code>Languages</code><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,py,java" />
-    </td>
-    <td align="center">
-      <code>Tools</code><br><br>
-      <img src="https://skillicons.dev/icons?i=git,docker" />
-    </td>
-    <td align="center">
-      <code>OS</code><br><br>
-      <img src="https://skillicons.dev/icons?i=windows,linux" />
-    </td>
-    <td align="center">
-      <code>Contact</code><br><br>
-      <a href="https://www.linkedin.com/in/pietrohansel">
-        <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn">
-      </a>
-    </td>
-  </tr>
-</table>
-
+<p align="left">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrohansel&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+</p>
 
 
