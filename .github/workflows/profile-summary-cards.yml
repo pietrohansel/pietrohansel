@@ -21,6 +21,6 @@ jobs:
           USERNAME: pietrohansel
           BRANCH_NAME: main
           UTC_OFFSET: -3
-          THEME: dracula
+          THEME: github_dark
           EXCLUDE: jupyter%20notebook,tex,css,php
           AUTO_PUSH: true
