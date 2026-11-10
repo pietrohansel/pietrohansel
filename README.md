@@ -1,5 +1,13 @@
-<p align="left">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrohansel&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&custom_title=Most%20used%20languages">
+<p align="center">
+  <img src="./profile-summary-card-output/dracula/5-profile-details.svg" width="100%" />
 </p>
 
+<p align="center">
+  <img src="./profile-summary-card-output/dracula/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" width="49%" />
+</p>
 
+<p align="center">
+  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/dracula/4-productive-time.svg" width="49%" />
+</p>
